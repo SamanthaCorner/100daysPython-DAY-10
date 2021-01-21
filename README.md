@@ -6,3 +6,8 @@
 
 * The List month_days contains the number of days in a month from January to December for a non-leap year. A leap year has 29 days in February.
 
+# Calculator
+
+* A very basic calculator which asks for a number, then an operand followed by requesting the second number.
+
+* Output is to the console and option for user to do more calculations or ending the program.
